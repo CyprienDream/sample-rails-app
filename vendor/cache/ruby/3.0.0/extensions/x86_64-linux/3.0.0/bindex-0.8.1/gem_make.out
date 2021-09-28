@@ -1,0 +1,15 @@
+current directory: /home/cyprien/sample-rails/sample_app/vendor/cache/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/home/cyprien/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/cyprien/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20210928-13601-7wb1hm.rb extconf.rb
+creating Makefile
+
+current directory: /home/cyprien/sample-rails/sample_app/vendor/cache/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /home/cyprien/sample-rails/sample_app/vendor/cache/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/cyprien/sample-rails/sample_app/vendor/cache/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20210928-13601-e9463t/skiptrace/internal
